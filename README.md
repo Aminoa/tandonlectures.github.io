@@ -1,3 +1,5 @@
+#THIS IS OUTDATED NOW, new version written in React
+
 # Tandon Syllabi
 Hosts syllabi for Tandon classes. Hosts syllabi for the following classes:
 
